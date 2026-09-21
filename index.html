@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CrossStitch Companion — Remote Catalog</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 3rem 1.5rem;
+      max-width: 680px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+    h1 { color: #38bdf8; font-size: 1.75rem; margin-bottom: 0.5rem; }
+    p { color: #94a3b8; }
+    .card {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li { margin: 0.75rem 0; }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+      font-family: monospace;
+      font-size: 0.95rem;
+    }
+    a:hover { text-decoration: underline; }
+    .badge {
+      display: inline-block;
+      background: #065f46;
+      color: #34d399;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 9999px;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="badge">● Online</div>
+  <h1>🧵 CrossStitch Companion Catalog</h1>
+  <p>Static API & Assets CDN for CrossStitch Companion mobile application.</p>
+
+  <div class="card">
+    <h3>Quick Endpoints:</h3>
+    <ul>
+      <li>📄 <a href="/catalog.json">/catalog.json</a> (Main Catalog Index)</li>
+      <li>🖼️ <a href="/images/totoro.jpg">/images/totoro.jpg</a> (Sample Image)</li>
+      <li>📦 <a href="/schemes/shop_totoro.json">/schemes/shop_totoro.json</a> (Sample Scheme)</li>
+    </ul>
+  </div>
+</body>
+</html>
