@@ -4,7 +4,7 @@
     "title": "Totoro",
     "designer": "Studio Ghibli",
     "category": "anime",
-    "image": "/images/totoro.jpg",
+    "image": "/images/totoro.png",
     "description": "Charming forest spirit Totoro in a cozy pixel art style. Perfect for a relaxing stitch piece.",
     "tags": [
       "Totoro",
@@ -25,7 +25,7 @@
     "title": "Pikachu",
     "designer": "Pokémon Art",
     "category": "anime",
-    "image": "/images/pikachu.jpg",
+    "image": "/images/pikachu.png",
     "description": "Beloved electric Pokémon Pikachu with bright rosy cheeks and an expressive cheerful gaze.",
     "tags": [
       "Pikachu",
@@ -46,7 +46,7 @@
     "title": "Calcifer",
     "designer": "Howl's Moving Castle",
     "category": "anime",
-    "image": "/images/calcifer.jpg",
+    "image": "/images/calcifer.png",
     "description": "Playful fire demon Calcifer crackling on a hearth log from the Studio Ghibli classic.",
     "tags": [
       "Calcifer",
@@ -67,7 +67,7 @@
     "title": "The Lamb (Cult of the Lamb)",
     "designer": "Massive Monster",
     "category": "anime",
-    "image": "/images/cult_lamb.jpg",
+    "image": "/images/cult_lamb.png",
     "description": "The iconic Lamb with crimson eye crown and ceremonial fleece from Cult of the Lamb.",
     "tags": [
       "The Lamb",
@@ -87,7 +87,7 @@
     "title": "Meme Cat",
     "designer": "Pixel Cat Art",
     "category": "memes",
-    "image": "/images/meme_cat.jpg",
+    "image": "/images/meme_cat.png",
     "description": "Surprised tuxedo cat with an open mouth and glossy eyes from the viral meme.",
     "tags": [
       "Cat",
@@ -108,7 +108,7 @@
     "title": "Purple Lily",
     "designer": "Floral CrossStitch",
     "category": "plants",
-    "image": "/images/lily.jpg",
+    "image": "/images/lily.png",
     "description": "Graceful purple lily bloom with smooth gradient petals and contrasting pistil.",
     "tags": [
       "Lily",
@@ -129,7 +129,7 @@
     "title": "Sunny Bloom",
     "designer": "Nature Motifs",
     "category": "plants",
-    "image": "/images/flower.jpg",
+    "image": "/images/flower.png",
     "description": "Vibrant ornamental flower with warm honey-amber petals and a cheerful round center.",
     "tags": [
       "Sunflower",
@@ -150,7 +150,7 @@
     "title": "Turquoise Flower",
     "designer": "Crystal Petals",
     "category": "plants",
-    "image": "/images/turquoise_flower.jpg",
+    "image": "/images/turquoise_flower.png",
     "description": "Geometric crystal blossom with mint turquoise petals and an amber core.",
     "tags": [
       "Turquoise",
@@ -171,7 +171,7 @@
     "title": "Red Rose",
     "designer": "Classic Pixel Rose",
     "category": "plants",
-    "image": "/images/red_rose.jpg",
+    "image": "/images/red_rose.png",
     "description": "Noble scarlet rose on an emerald stem with lush green leaves in pixel style.",
     "tags": [
       "Rose",
