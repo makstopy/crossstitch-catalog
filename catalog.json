@@ -2,7 +2,7 @@
   {
     "id": "shop_totoro",
     "title": "Totoro",
-    "designer": "Studio Ghibli",
+    "designer": "Cross Stitch Companion",
     "category": "anime",
     "image": "/images/totoro.png",
     "description": "Charming forest spirit Totoro in a cozy pixel art style. Perfect for a relaxing stitch piece.",
@@ -23,7 +23,7 @@
   {
     "id": "shop_pikachu",
     "title": "Pikachu",
-    "designer": "Pokémon Art",
+    "designer": "Cross Stitch Companion",
     "category": "anime",
     "image": "/images/pikachu.png",
     "description": "Beloved electric Pokémon Pikachu with bright rosy cheeks and an expressive cheerful gaze.",
@@ -44,7 +44,7 @@
   {
     "id": "shop_calcifer",
     "title": "Calcifer",
-    "designer": "Howl's Moving Castle",
+    "designer": "Cross Stitch Companion",
     "category": "anime",
     "image": "/images/calcifer.png",
     "description": "Playful fire demon Calcifer crackling on a hearth log from the Studio Ghibli classic.",
@@ -65,7 +65,7 @@
   {
     "id": "shop_cult_lamb",
     "title": "The Lamb (Cult of the Lamb)",
-    "designer": "Massive Monster",
+    "designer": "Cross Stitch Companion",
     "category": "anime",
     "image": "/images/cult_lamb.png",
     "description": "The iconic Lamb with crimson eye crown and ceremonial fleece from Cult of the Lamb.",
@@ -85,7 +85,7 @@
   {
     "id": "shop_meme_cat",
     "title": "Meme Cat",
-    "designer": "Pixel Cat Art",
+    "designer": "Cross Stitch Companion",
     "category": "memes",
     "image": "/images/meme_cat.png",
     "description": "Surprised tuxedo cat with an open mouth and glossy eyes from the viral meme.",
@@ -106,7 +106,7 @@
   {
     "id": "shop_lily",
     "title": "Purple Lily",
-    "designer": "Floral CrossStitch",
+    "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/lily.png",
     "description": "Graceful purple lily bloom with smooth gradient petals and contrasting pistil.",
@@ -127,7 +127,7 @@
   {
     "id": "shop_sunflower",
     "title": "Sunny Bloom",
-    "designer": "Nature Motifs",
+    "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/sunflower.png",
     "description": "Vibrant ornamental flower with warm honey-amber petals and a cheerful round center.",
@@ -148,7 +148,7 @@
   {
     "id": "shop_turquoise_flower",
     "title": "Turquoise Flower",
-    "designer": "Crystal Petals",
+    "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/turquoise_flower.png",
     "description": "Geometric crystal blossom with mint turquoise petals and an amber core.",
@@ -169,7 +169,7 @@
   {
     "id": "shop_red_rose",
     "title": "Red Rose",
-    "designer": "Classic Pixel Rose",
+    "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/red_rose.png",
     "description": "Noble scarlet rose on an emerald stem with lush green leaves in pixel style.",
@@ -190,7 +190,7 @@
   {
     "id": "shop_ramen_cat",
     "title": "Ramen Cat",
-    "designer": "Kawaii Ramen Neko",
+    "designer": "Cross Stitch Companion",
     "category": "food",
     "image": "/images/ramen_cat.png",
     "description": "Cozy ginger cat sleeping peacefully inside a warm bowl of ramen with egg and scallions.",
@@ -212,7 +212,7 @@
   {
     "id": "shop_purple_grapes",
     "title": "Ripe Purple Grapes",
-    "designer": "Fruit & Vine",
+    "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/purple_grapes.png",
     "description": "Juicy cluster of purple grapes with emerald green leaves and glossy highlights.",
@@ -233,7 +233,7 @@
   {
     "id": "shop_sunset_cat",
     "title": "Cat at Sunset Window",
-    "designer": "Cozy Pixel Window",
+    "designer": "Cross Stitch Companion",
     "category": "animals",
     "image": "/images/sunset_cat.png",
     "description": "Silhouette of a black cat sitting on a windowsill against a warm purple and pink sunset sky.",
@@ -254,7 +254,7 @@
   {
     "id": "shop_pop_cat",
     "title": "Pop Cat",
-    "designer": "Viral Memes",
+    "designer": "Cross Stitch Companion",
     "category": "memes",
     "image": "/images/pop_cat.png",
     "description": "World-famous wide-mouthed Pop Cat meme in vibrant pixel art cross-stitch format.",
@@ -275,7 +275,7 @@
   {
     "id": "shop_sleepy_ginger_cat",
     "title": "Sleepy Ginger Cat",
-    "designer": "Cute Pets Studio",
+    "designer": "Cross Stitch Companion",
     "category": "animals",
     "image": "/images/sleepy_ginger_cat.png",
     "description": "Adorable striped ginger kitten peacefully curled up for a cozy catnap.",
@@ -296,7 +296,7 @@
   {
     "id": "shop_strawberry_donut",
     "title": "Strawberry Donut",
-    "designer": "Sweet Bakery Art",
+    "designer": "Cross Stitch Companion",
     "category": "food",
     "image": "/images/strawberry_donut.png",
     "description": "Mouthwatering frosted donut with glossy pink strawberry glaze and rainbow sprinkles.",
@@ -317,7 +317,7 @@
   {
     "id": "shop_orange_slice",
     "title": "Juicy Orange Slice",
-    "designer": "Citrus Crafts",
+    "designer": "Cross Stitch Companion",
     "category": "food",
     "image": "/images/orange_slice.png",
     "description": "Bright sunny slice of orange with detailed citrus segment gradients and clean texture.",
@@ -338,7 +338,7 @@
   {
     "id": "shop_doge_meme",
     "title": "Doge Meme",
-    "designer": "Shiba Inu Memes",
+    "designer": "Cross Stitch Companion",
     "category": "memes",
     "image": "/images/doge_meme.png",
     "description": "Iconic Shiba Inu Doge with that legendary knowing smirk. Such stitch. Much wow.",
@@ -359,7 +359,7 @@
   {
     "id": "shop_kawaii_cherries",
     "title": "Kawaii Cherries",
-    "designer": "Sweet Berry Crafts",
+    "designer": "Cross Stitch Companion",
     "category": "food",
     "image": "/images/kawaii_cherries.png",
     "description": "Two smiling cherry twins with blushing pink cheeks and a fresh green stem.",
@@ -380,7 +380,7 @@
   {
     "id": "shop_cherries_bow",
     "title": "Cherries with Ribbon Bow",
-    "designer": "Coquette Stitch",
+    "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/cherries_bow.png",
     "description": "Elegant pair of ruby red cherries tied with a delicate pastel pink coquette bow.",
@@ -401,7 +401,7 @@
   {
     "id": "shop_cute_avocado",
     "title": "Cute Avocado",
-    "designer": "Green Goodness",
+    "designer": "Cross Stitch Companion",
     "category": "food",
     "image": "/images/cute_avocado.png",
     "description": "Cheerful ripe avocado half with a round brown seed and rosy blushing cheeks.",
@@ -422,7 +422,7 @@
   {
     "id": "shop_pochita",
     "title": "Pochita (Chainsaw Man)",
-    "designer": "Tatsuki Fujimoto",
+    "designer": "Cross Stitch Companion",
     "category": "anime",
     "image": "/images/pochita.png",
     "description": "Denji’s beloved Chainsaw Devil dog Pochita complete with chainsaw blade, starter tail, and paw.",
@@ -443,7 +443,7 @@
   {
     "id": "shop_kawaii_strawberry",
     "title": "Kawaii Strawberry",
-    "designer": "Berry Sweet Studio",
+    "designer": "Cross Stitch Companion",
     "category": "food",
     "image": "/images/kawaii_strawberry.png",
     "description": "Sweet bright red strawberry with tiny white seed dots, green leafy crown, and a smile.",
