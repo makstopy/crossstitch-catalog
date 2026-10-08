@@ -1,6 +1,6 @@
-# CrossStitch Companion — Remote Pattern Catalog
+# Cross Stitch Companion — Remote Pattern Catalog
 
-This repository hosts the dynamic catalog of cross-stitch patterns for CrossStitch Companion via **Cloudflare Pages**.
+This repository hosts the dynamic catalog of cross-stitch patterns for Cross Stitch Companion via **Cloudflare Pages**.
 
 ## Structure
 - `catalog.json`: Main index of all patterns with categories and metadata.

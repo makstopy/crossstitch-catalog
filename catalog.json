@@ -461,5 +461,27 @@
     "grid_height": 31,
     "colors_count": 6,
     "total_stitches": 542
+  },
+  {
+    "id": "shop_pumpkin",
+    "title": "Pumpkin",
+    "designer": "Cross Stitch Companion",
+    "category": "plants",
+    "image": "/images/pumpkin.png",
+    "description": "Vibrant autumn harvest pumpkin with warm orange tones and leafy stem.",
+    "tags": [
+      "Pumpkin",
+      "Autumn",
+      "Harvest",
+      "Halloween",
+      "Plants",
+      "Cute"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_pumpkin.json",
+    "grid_width": 25,
+    "grid_height": 26,
+    "colors_count": 9,
+    "total_stitches": 463
   }
 ]
