@@ -129,7 +129,7 @@
     "title": "Sunny Bloom",
     "designer": "Nature Motifs",
     "category": "plants",
-    "image": "/images/flower.png",
+    "image": "/images/sunflower.png",
     "description": "Vibrant ornamental flower with warm honey-amber petals and a cheerful round center.",
     "tags": [
       "Sunflower",
@@ -192,7 +192,7 @@
     "title": "Ramen Cat",
     "designer": "Kawaii Ramen Neko",
     "category": "food",
-    "image": "/images/294b4f0bbd43b7b4dbcfc79448476cf3.jpg",
+    "image": "/images/ramen_cat.png",
     "description": "Cozy ginger cat sleeping peacefully inside a warm bowl of ramen with egg and scallions.",
     "tags": [
       "Cat",
@@ -214,7 +214,7 @@
     "title": "Ripe Purple Grapes",
     "designer": "Fruit & Vine",
     "category": "plants",
-    "image": "/images/376a81c365232aa302f488db6af476f3.jpg",
+    "image": "/images/purple_grapes.png",
     "description": "Juicy cluster of purple grapes with emerald green leaves and glossy highlights.",
     "tags": [
       "Grapes",
@@ -235,7 +235,7 @@
     "title": "Cat at Sunset Window",
     "designer": "Cozy Pixel Window",
     "category": "animals",
-    "image": "/images/3b0bc61633588017be28301d06bb1bf9.jpg",
+    "image": "/images/sunset_cat.png",
     "description": "Silhouette of a black cat sitting on a windowsill against a warm purple and pink sunset sky.",
     "tags": [
       "Cat",
@@ -256,7 +256,7 @@
     "title": "Pop Cat",
     "designer": "Viral Memes",
     "category": "memes",
-    "image": "/images/3bb2b373b767416c90da2787996fc8f0.jpg",
+    "image": "/images/pop_cat.png",
     "description": "World-famous wide-mouthed Pop Cat meme in vibrant pixel art cross-stitch format.",
     "tags": [
       "Pop Cat",
@@ -277,7 +277,7 @@
     "title": "Sleepy Ginger Cat",
     "designer": "Cute Pets Studio",
     "category": "animals",
-    "image": "/images/4b954e468d664023bd8f0b69d722299b.jpg",
+    "image": "/images/sleepy_ginger_cat.png",
     "description": "Adorable striped ginger kitten peacefully curled up for a cozy catnap.",
     "tags": [
       "Ginger Cat",
@@ -298,7 +298,7 @@
     "title": "Strawberry Donut",
     "designer": "Sweet Bakery Art",
     "category": "food",
-    "image": "/images/5b625ea181d25413d5b6c603ad7b179c.jpg",
+    "image": "/images/strawberry_donut.png",
     "description": "Mouthwatering frosted donut with glossy pink strawberry glaze and rainbow sprinkles.",
     "tags": [
       "Donut",
@@ -319,7 +319,7 @@
     "title": "Juicy Orange Slice",
     "designer": "Citrus Crafts",
     "category": "food",
-    "image": "/images/631b3a59dd039f5c2313996732b6f0f2.jpg",
+    "image": "/images/orange_slice.png",
     "description": "Bright sunny slice of orange with detailed citrus segment gradients and clean texture.",
     "tags": [
       "Orange",
@@ -340,7 +340,7 @@
     "title": "Doge Meme",
     "designer": "Shiba Inu Memes",
     "category": "memes",
-    "image": "/images/75679084b91db7550dbfc49bd8b1a928.jpg",
+    "image": "/images/doge_meme.png",
     "description": "Iconic Shiba Inu Doge with that legendary knowing smirk. Such stitch. Much wow.",
     "tags": [
       "Doge",
@@ -361,7 +361,7 @@
     "title": "Kawaii Cherries",
     "designer": "Sweet Berry Crafts",
     "category": "food",
-    "image": "/images/8717c71445a16bec0c32257d754e517e.jpg",
+    "image": "/images/kawaii_cherries.png",
     "description": "Two smiling cherry twins with blushing pink cheeks and a fresh green stem.",
     "tags": [
       "Cherries",
@@ -382,7 +382,7 @@
     "title": "Cherries with Ribbon Bow",
     "designer": "Coquette Stitch",
     "category": "plants",
-    "image": "/images/8a69caffcc2f23630b4cb891765dd591.jpg",
+    "image": "/images/cherries_bow.png",
     "description": "Elegant pair of ruby red cherries tied with a delicate pastel pink coquette bow.",
     "tags": [
       "Cherries",
@@ -403,7 +403,7 @@
     "title": "Cute Avocado",
     "designer": "Green Goodness",
     "category": "food",
-    "image": "/images/a0c0b118f41cd9956ae4bc52b5abf773.jpg",
+    "image": "/images/cute_avocado.png",
     "description": "Cheerful ripe avocado half with a round brown seed and rosy blushing cheeks.",
     "tags": [
       "Avocado",
@@ -424,7 +424,7 @@
     "title": "Pochita (Chainsaw Man)",
     "designer": "Tatsuki Fujimoto",
     "category": "anime",
-    "image": "/images/aa3966e4611ca513b1d9d6a78e29c742.jpg",
+    "image": "/images/pochita.png",
     "description": "Denji’s beloved Chainsaw Devil dog Pochita complete with chainsaw blade, starter tail, and paw.",
     "tags": [
       "Pochita",
@@ -445,7 +445,7 @@
     "title": "Kawaii Strawberry",
     "designer": "Berry Sweet Studio",
     "category": "food",
-    "image": "/images/ed4eceb42f1fc7270e99ed92bbe0b4a9.jpg",
+    "image": "/images/kawaii_strawberry.png",
     "description": "Sweet bright red strawberry with tiny white seed dots, green leafy crown, and a smile.",
     "tags": [
       "Strawberry",
