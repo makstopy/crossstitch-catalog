@@ -1,0 +1,56 @@
+[
+  {
+    "key": "halloween",
+    "name": "Halloween",
+    "labels": {
+      "ru": "Хэллоуин",
+      "en": "Halloween",
+      "es": "Halloween"
+    }
+  },
+  {
+    "key": "memes",
+    "name": "Memes",
+    "labels": {
+      "ru": "Мемы",
+      "en": "Memes",
+      "es": "Memes"
+    }
+  },
+  {
+    "key": "food",
+    "name": "Food & Sweets",
+    "labels": {
+      "ru": "Еда и Сладости",
+      "en": "Food & Sweets",
+      "es": "Comida y Dulces"
+    }
+  },
+  {
+    "key": "animals",
+    "name": "Animals",
+    "labels": {
+      "ru": "Животные",
+      "en": "Animals",
+      "es": "Animales"
+    }
+  },
+  {
+    "key": "plants",
+    "name": "Plants & Flowers",
+    "labels": {
+      "ru": "Цветы и Растения",
+      "en": "Plants & Flowers",
+      "es": "Plantas y Flores"
+    }
+  },
+  {
+    "key": "anime",
+    "name": "Anime & Games",
+    "labels": {
+      "ru": "Аниме и Игры",
+      "en": "Anime & Games",
+      "es": "Anime y Videojuegos"
+    }
+  }
+]
