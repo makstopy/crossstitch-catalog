@@ -1,5 +1,33 @@
 [
   {
+    "id": "starter_apples_and_daisies",
+    "title": "Apples and Daisies",
+    "designer": "Cross Stitch Companion",
+    "category": "plants",
+    "image": "/images/starter_apples_and_daisies.png",
+    "description": "Charming still life with ripe red apples and delicate white daisies.",
+    "tags": ["Apples", "Daisies", "Flowers", "Fruit", "Nature", "Starter"],
+    "scheme_url": "/schemes/starter_apples_and_daisies.json",
+    "grid_width": 285,
+    "grid_height": 115,
+    "colors_count": 60,
+    "total_stitches": 16386
+  },
+  {
+    "id": "starter_bee",
+    "title": "Bee",
+    "designer": "Cross Stitch Companion",
+    "category": "animals",
+    "image": "/images/starter_bee.png",
+    "description": "Delightful fluffy honey bee with floral accents and detailed backstitch.",
+    "tags": ["Bee", "Honeybee", "Insect", "Nature", "Floral", "Starter"],
+    "scheme_url": "/schemes/starter_bee.json",
+    "grid_width": 130,
+    "grid_height": 161,
+    "colors_count": 46,
+    "total_stitches": 11361
+  },
+  {
     "id": "shop_cat_pumpkin",
     "title": "Cat & Pumpkin",
     "designer": "Cross Stitch Companion",
@@ -320,6 +348,28 @@
     "grid_height": 58,
     "colors_count": 11,
     "total_stitches": 1983
+  },
+  {
+    "id": "shop_pumpkin",
+    "title": "Pumpkin",
+    "designer": "Cross Stitch Companion",
+    "category": "plants",
+    "image": "/images/pumpkin.png",
+    "description": "Vibrant autumn harvest pumpkin with warm orange tones and leafy stem.",
+    "tags": [
+      "Pumpkin",
+      "Autumn",
+      "Harvest",
+      "Halloween",
+      "Plants",
+      "Cute"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_pumpkin.json",
+    "grid_width": 25,
+    "grid_height": 26,
+    "colors_count": 9,
+    "total_stitches": 463
   },
   {
     "id": "shop_totoro",
@@ -783,27 +833,5 @@
     "grid_height": 31,
     "colors_count": 6,
     "total_stitches": 542
-  },
-  {
-    "id": "shop_pumpkin",
-    "title": "Pumpkin",
-    "designer": "Cross Stitch Companion",
-    "category": "plants",
-    "image": "/images/pumpkin.png",
-    "description": "Vibrant autumn harvest pumpkin with warm orange tones and leafy stem.",
-    "tags": [
-      "Pumpkin",
-      "Autumn",
-      "Harvest",
-      "Halloween",
-      "Plants",
-      "Cute"
-    ],
-    "remove_background": true,
-    "scheme_url": "/schemes/shop_pumpkin.json",
-    "grid_width": 25,
-    "grid_height": 26,
-    "colors_count": 9,
-    "total_stitches": 463
   }
 ]
