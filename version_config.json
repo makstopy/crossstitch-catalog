@@ -1,0 +1,41 @@
+{
+  "min_version_code": 49,
+  "min_version_name": "3.5.10",
+  "latest_version_code": 50,
+  "latest_version_name": "3.5.11",
+  "force_update": false,
+  "store_url": "https://play.google.com/store/apps/details?id=com.crossstitch.companion",
+  "market_url": "market://details?id=com.crossstitch.companion",
+  "title": {
+    "ru": "Доступно обновление",
+    "en": "Update Available",
+    "es": "Actualización disponible",
+    "pt": "Atualização disponível",
+    "de": "Aktualisierung verfügbar",
+    "fr": "Mise à jour disponible"
+  },
+  "message": {
+    "ru": "Вышла новая версия приложения с новыми возможностями и улучшениями. Рекомендуем обновиться в Google Play.",
+    "en": "A new version of the app is available with new features and improvements. We recommend updating on Google Play.",
+    "es": "Una nueva versión de la aplicación está disponible con mejoras y correcciones. Te recomendamos actualizar en Google Play.",
+    "pt": "Uma nova versão do aplicativo está disponível com novos recursos e melhorias. Recomendamos atualizar no Google Play.",
+    "de": "Eine neue Version der App ist verfügbar mit Verbesserungen und Fehlerbehebungen. Wir empfehlen ein Update im Google Play.",
+    "fr": "Une nouvelle version de l'application est disponible avec de nouvelles fonctionnalités et améliorations. Nous vous recommandons de mettre à jour sur Google Play."
+  },
+  "button_text": {
+    "ru": "Обновить в Google Play",
+    "en": "Update on Google Play",
+    "es": "Actualizar en Google Play",
+    "pt": "Atualizar no Google Play",
+    "de": "In Google Play aktualisieren",
+    "fr": "Mettre à jour sur Google Play"
+  },
+  "whats_new": {
+    "ru": "• Улучшено распознавание и конвертация схем\n• Исправления стабильности и экспорта\n• Добавлены новые схемы в каталог",
+    "en": "• Pattern import and conversion improvements\n• Stability fixes and smoother navigation\n• New patterns added to the catalog",
+    "es": "• Mejoras en la conversión de patrones\n• Correcciones de estabilidad\n• Nuevos patrones en el catálogo",
+    "pt": "• Melhorias na conversão de padrões\n• Correções de estabilidade\n• Novos padrões no catálogo",
+    "de": "• Verbesserungen bei der Musterkonvertierung\n• Stabilitätskorrekturen\n• Neue Muster im Katalog",
+    "fr": "• Améliorations de la conversion des motifs\n• Corrections de stabilité\n• Nouveaux motifs ajoutés au catalogue"
+  }
+}
