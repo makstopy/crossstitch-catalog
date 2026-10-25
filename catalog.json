@@ -1,12 +1,38 @@
 [
   {
+    "id": "shop_pokemon_3",
+    "title": "Pokemon #3",
+    "designer": "Cross Stitch Companion",
+    "category": "anime",
+    "image": "/images/shop_pokemon_3.png",
+    "description": "Pokemon #3",
+    "tags": [
+      "Pokemon",
+      "Anime"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_pokemon_3.json",
+    "grid_width": 39,
+    "grid_height": 48,
+    "colors_count": 12,
+    "total_stitches": 858,
+    "created_at": "2026-10-25T16:01:41.263Z"
+  },
+  {
     "id": "starter_apples_and_daisies",
     "title": "Apples and Daisies",
     "designer": "Cross Stitch Companion",
     "category": "plants",
     "image": "/images/starter_apples_and_daisies.png",
     "description": "Charming still life with ripe red apples and delicate white daisies.",
-    "tags": ["Apples", "Daisies", "Flowers", "Fruit", "Nature", "Starter"],
+    "tags": [
+      "Apples",
+      "Daisies",
+      "Flowers",
+      "Fruit",
+      "Nature",
+      "Starter"
+    ],
     "scheme_url": "/schemes/starter_apples_and_daisies.json",
     "grid_width": 285,
     "grid_height": 115,
@@ -20,7 +46,14 @@
     "category": "animals",
     "image": "/images/starter_bee.png",
     "description": "Delightful fluffy honey bee with floral accents and detailed backstitch.",
-    "tags": ["Bee", "Honeybee", "Insect", "Nature", "Floral", "Starter"],
+    "tags": [
+      "Bee",
+      "Honeybee",
+      "Insect",
+      "Nature",
+      "Floral",
+      "Starter"
+    ],
     "scheme_url": "/schemes/starter_bee.json",
     "grid_width": 130,
     "grid_height": 161,
