@@ -1,5 +1,23 @@
 [
   {
+    "id": "shop_milk",
+    "title": "Milk",
+    "designer": "Cross Stitch Companion",
+    "category": "anime",
+    "image": "/images/shop_milk.png",
+    "description": "Milk",
+    "tags": [
+      "Milk"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_milk.json",
+    "grid_width": 32,
+    "grid_height": 34,
+    "colors_count": 5,
+    "total_stitches": 902,
+    "created_at": "2026-10-25T16:21:59.479Z"
+  },
+  {
     "id": "shop_pokemon_2",
     "title": "Pokemon #2",
     "designer": "Cross Stitch Companion",
