@@ -1,5 +1,25 @@
 [
   {
+    "id": "shop_dragon",
+    "title": "Dragon",
+    "designer": "Cross Stitch Companion",
+    "category": "anime",
+    "image": "/images/shop_dragon.png",
+    "description": "Dragon",
+    "tags": [
+      "Dragon",
+      "halloween",
+      "anime"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_dragon.json",
+    "grid_width": 28,
+    "grid_height": 29,
+    "colors_count": 5,
+    "total_stitches": 448,
+    "created_at": "2026-10-25T16:26:00.041Z"
+  },
+  {
     "id": "shop_pokemon_4",
     "title": "Pokemon #4",
     "designer": "Cross Stitch Companion",
