@@ -115,27 +115,6 @@
     "total_stitches": 16386
   },
   {
-    "id": "starter_bee",
-    "title": "Bee",
-    "designer": "Cross Stitch Companion",
-    "category": "animals",
-    "image": "/images/starter_bee.png",
-    "description": "Delightful fluffy honey bee with floral accents and detailed backstitch.",
-    "tags": [
-      "Bee",
-      "Honeybee",
-      "Insect",
-      "Nature",
-      "Floral",
-      "Starter"
-    ],
-    "scheme_url": "/schemes/starter_bee.json",
-    "grid_width": 130,
-    "grid_height": 161,
-    "colors_count": 46,
-    "total_stitches": 11361
-  },
-  {
     "id": "shop_cat_pumpkin",
     "title": "Cat & Pumpkin",
     "designer": "Cross Stitch Companion",
