@@ -1,5 +1,24 @@
 [
   {
+    "id": "shop_female_knight",
+    "title": "Female Knight",
+    "designer": "Cross Stitch Companion",
+    "category": "halloween",
+    "image": "/images/shop_female_knight.png",
+    "description": "Female Knight",
+    "tags": [
+      "Female Knight",
+      "halloween"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_female_knight.json",
+    "grid_width": 109,
+    "grid_height": 117,
+    "colors_count": 1,
+    "total_stitches": 6063,
+    "created_at": "2026-10-29T05:43:37.038Z"
+  },
+  {
     "id": "shop_zombie_cactus",
     "title": "Zombie Cactus",
     "designer": "Cross Stitch Companion",
