@@ -1,5 +1,25 @@
 [
   {
+    "id": "shop_kpop_demon_hunters",
+    "title": "KPop Demon Hunters",
+    "designer": "Cross Stitch Companion",
+    "category": "anime",
+    "image": "/images/shop_kpop_demon_hunters.png",
+    "description": "KPop Demon Hunters",
+    "tags": [
+      "KPop Demon Hunters",
+      "halloween",
+      "anime"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_kpop_demon_hunters.json",
+    "grid_width": 57,
+    "grid_height": 57,
+    "colors_count": 8,
+    "total_stitches": 2182,
+    "created_at": "2026-10-29T06:45:07.996Z"
+  },
+  {
     "id": "shop_totoro_2",
     "title": "Totoro #2",
     "designer": "Cross Stitch Companion",
