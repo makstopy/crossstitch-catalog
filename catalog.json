@@ -1,5 +1,24 @@
 [
   {
+    "id": "shop_totoro_2",
+    "title": "Totoro #2",
+    "designer": "Cross Stitch Companion",
+    "category": "anime",
+    "image": "/images/shop_totoro_2.png",
+    "description": "Totoro #2",
+    "tags": [
+      "Totoro #2",
+      "anime"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_totoro_2.json",
+    "grid_width": 43,
+    "grid_height": 51,
+    "colors_count": 7,
+    "total_stitches": 1308,
+    "created_at": "2026-10-29T05:46:17.489Z"
+  },
+  {
     "id": "shop_female_knight",
     "title": "Female Knight",
     "designer": "Cross Stitch Companion",
