@@ -1,5 +1,24 @@
 [
   {
+    "id": "shop_the_sun_tarot",
+    "title": "The Sun Tarot",
+    "designer": "Cross Stitch Companion",
+    "category": "halloween",
+    "image": "/images/shop_the_sun_tarot.png",
+    "description": "The Sun Tarot",
+    "tags": [
+      "The Sun Tarot",
+      "halloween"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_the_sun_tarot.json",
+    "grid_width": 71,
+    "grid_height": 122,
+    "colors_count": 1,
+    "total_stitches": 3842,
+    "created_at": "2026-10-29T05:34:03.162Z"
+  },
+  {
     "id": "shop_dragon",
     "title": "Dragon",
     "designer": "Cross Stitch Companion",
