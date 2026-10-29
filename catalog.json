@@ -1,5 +1,25 @@
 [
   {
+    "id": "shop_gary_the_snail",
+    "title": "Gary the Snail",
+    "designer": "Cross Stitch Companion",
+    "category": "anime",
+    "image": "/images/shop_gary_the_snail.png",
+    "description": "Gary the Snail",
+    "tags": [
+      "Gary the Snail",
+      "halloween",
+      "anime"
+    ],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_gary_the_snail.json",
+    "grid_width": 44,
+    "grid_height": 36,
+    "colors_count": 9,
+    "total_stitches": 741,
+    "created_at": "2026-10-29T06:54:43.986Z"
+  },
+  {
     "id": "shop_kpop_demon_hunters",
     "title": "KPop Demon Hunters",
     "designer": "Cross Stitch Companion",
