@@ -1,8 +1,8 @@
 {
   "min_version_code": 49,
   "min_version_name": "3.5.10",
-  "latest_version_code": 54,
-  "latest_version_name": "3.5.15",
+  "latest_version_code": 56,
+  "latest_version_name": "3.5.17",
   "force_update": false,
   "store_url": "https://play.google.com/store/apps/details?id=com.crossstitch.companion",
   "market_url": "market://details?id=com.crossstitch.companion",
@@ -31,11 +31,11 @@
     "fr": "Mettre à jour sur Google Play"
   },
   "whats_new": {
-    "ru": "• Улучшено распознавание и конвертация схем\n• Исправления стабильности и экспорта\n• Добавлены новые схемы в каталог",
-    "en": "• Pattern import and conversion improvements\n• Stability fixes and smoother navigation\n• New patterns added to the catalog",
-    "es": "• Mejoras en la conversión de patrones\n• Correcciones de estabilidad\n• Nuevos patrones en el catálogo",
-    "pt": "• Melhorias na conversão de padrões\n• Correções de estabilidade\n• Novos padrões no catálogo",
-    "de": "• Verbesserungen bei der Musterkonvertierung\n• Stabilitätskorrekturen\n• Neue Muster im Katalog",
-    "fr": "• Améliorations de la conversion des motifs\n• Corrections de stabilité\n• Nouveaux motifs ajoutés au catalogue"
+    "ru": "• Быстрый импорт и создание схем прямо с главного экрана\n• Улучшена стабильность конвертера файлов и изображений\n• Исправления и оптимизация производительности",
+    "en": "• Quick pattern import and creation from the home screen\n• Improved file and image converter stability\n• Bug fixes and performance improvements",
+    "es": "• Importación y creación rápida de patrones desde la pantalla principal\n• Mayor estabilidad del convertidor de archivos e imágenes\n• Correcciones y mejoras de rendimiento",
+    "pt": "• Importação e criação rápida de padrões na tela inicial\n• Melhorias na estabilidade do conversor de arquivos e imagens\n• Correções e melhorias de desempenho",
+    "de": "• Schneller Musterimport und -erstellung vom Startbildschirm\n• Verbesserte Stabilität des Datei- und Bildkonverters\n• Fehlerbehebungen und Leistungsverbesserungen",
+    "fr": "• Importation et création rapides de motifs depuis l'écran d'accueil\n• Stabilité améliorée du convertisseur de fichiers et d'images\n• Corrections et améliorations des performances"
   }
 }
