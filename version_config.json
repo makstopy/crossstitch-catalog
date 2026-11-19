@@ -1,8 +1,8 @@
 {
   "min_version_code": 49,
   "min_version_name": "3.5.10",
-  "latest_version_code": 56,
-  "latest_version_name": "3.5.17",
+  "latest_version_code": 57,
+  "latest_version_name": "3.5.18",
   "force_update": false,
   "store_url": "https://play.google.com/store/apps/details?id=com.crossstitch.companion",
   "market_url": "market://details?id=com.crossstitch.companion",
@@ -31,11 +31,11 @@
     "fr": "Mettre à jour sur Google Play"
   },
   "whats_new": {
-    "ru": "• Быстрый импорт и создание схем прямо с главного экрана\n• Улучшена стабильность конвертера файлов и изображений\n• Исправления и оптимизация производительности",
-    "en": "• Quick pattern import and creation from the home screen\n• Improved file and image converter stability\n• Bug fixes and performance improvements",
-    "es": "• Importación y creación rápida de patrones desde la pantalla principal\n• Mayor estabilidad del convertidor de archivos e imágenes\n• Correcciones y mejoras de rendimiento",
-    "pt": "• Importação e criação rápida de padrões na tela inicial\n• Melhorias na estabilidade do conversor de arquivos e imagens\n• Correções e melhorias de desempenho",
-    "de": "• Schneller Musterimport und -erstellung vom Startbildschirm\n• Verbesserte Stabilität des Datei- und Bildkonverters\n• Fehlerbehebungen und Leistungsverbesserungen",
-    "fr": "• Importation et création rapides de motifs depuis l'écran d'accueil\n• Stabilité améliorée du convertisseur de fichiers et d'images\n• Corrections et améliorations des performances"
+    "ru": "• Улучшен импорт многостраничных PDF-схем и фильтрация бэкстича\n• Новые кнопки на канве: показ/скрытие бэкстича и режим просмотра отшитых стежков\n• Оптимизация стабильности и производительности",
+    "en": "• Improved multi-page PDF pattern import and backstitch filtering\n• New canvas buttons: toggle backstitch and completed stitches view\n• Stability and performance improvements",
+    "es": "• Mejoras en la importación de patrones PDF de varias páginas y filtrado de punto atrás\n• Nuevos botones en el lienzo: mostrar/ocultar punto atrás y vista de puntos completados\n• Mejoras de estabilidad y rendimiento",
+    "pt": "• Melhorias na importação de padrões PDF de várias páginas e filtragem de ponto atrás\n• Novos botões na tela: mostrar/ocultar ponto atrás e visualização de pontos concluídos\n• Melhorias de estabilidade e desempenho",
+    "de": "• Verbesserter Import mehrseitiger PDF-Vorlagen und Rückstich-Filterung\n• Neue Leinwand-Schaltflächen: Rückstich ein-/ausblenden und Ansicht fertiger Stiche\n• Stabilitäts- und Leistungsverbesserungen",
+    "fr": "• Amélioration de l'importation de patrons PDF multipages et du filtrage du point arrière\n• Nouveaux boutons sur la toile : afficher/masquer le point arrière et vue des points terminés\n• Améliorations de la stabilité et des performances"
   }
 }
