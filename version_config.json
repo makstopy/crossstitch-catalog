@@ -1,8 +1,8 @@
 {
   "min_version_code": 49,
   "min_version_name": "3.5.10",
-  "latest_version_code": 57,
-  "latest_version_name": "3.5.18",
+  "latest_version_code": 60,
+  "latest_version_name": "3.5.21",
   "force_update": false,
   "store_url": "https://play.google.com/store/apps/details?id=com.crossstitch.companion",
   "market_url": "market://details?id=com.crossstitch.companion",
@@ -31,11 +31,10 @@
     "fr": "Mettre à jour sur Google Play"
   },
   "whats_new": {
-    "ru": "• Улучшен импорт многостраничных PDF-схем и фильтрация бэкстича\n• Новые кнопки на канве: показ/скрытие бэкстича и режим просмотра отшитых стежков\n• Оптимизация стабильности и производительности",
-    "en": "• Improved multi-page PDF pattern import and backstitch filtering\n• New canvas buttons: toggle backstitch and completed stitches view\n• Stability and performance improvements",
-    "es": "• Mejoras en la importación de patrones PDF de varias páginas y filtrado de punto atrás\n• Nuevos botones en el lienzo: mostrar/ocultar punto atrás y vista de puntos completados\n• Mejoras de estabilidad y rendimiento",
-    "pt": "• Melhorias na importação de padrões PDF de várias páginas e filtragem de ponto atrás\n• Novos botões na tela: mostrar/ocultar ponto atrás e visualização de pontos concluídos\n• Melhorias de estabilidade e desempenho",
-    "de": "• Verbesserter Import mehrseitiger PDF-Vorlagen und Rückstich-Filterung\n• Neue Leinwand-Schaltflächen: Rückstich ein-/ausblenden und Ansicht fertiger Stiche\n• Stabilitäts- und Leistungsverbesserungen",
-    "fr": "• Amélioration de l'importation de patrons PDF multipages et du filtrage du point arrière\n• Nouveaux boutons sur la toile : afficher/masquer le point arrière et vue des points terminés\n• Améliorations de la stabilité et des performances"
+    "en": "• New onboarding with first free pattern selection and interactive canvas tour\n• Updated 2-column grid in My Projects and fast paginated pattern lists\n• Improved UI responsiveness and bug fixes",
+    "es": "• Nuevo inicio con selección del primer patrón gratuito y recorrido interactivo en el lienzo\n• Cuadrícula de 2 columnas en Mis Proyectos y carga paginada más rápida\n• Mejoras de fluidez y corrección de errores",
+    "pt": "• Nova tela inicial com escolha do primeiro gráfico gratuito e tour interativo na tela\n• Grade em 2 colunas em Meus Projetos e carregamento paginado mais rápido\n• Melhorias de desempenho e correções de erros",
+    "de": "• Neues Onboarding mit Auswahl der ersten kostenlosen Vorlage und interaktiver Einführung\n• Aktualisiertes 2-Spalten-Raster in Meine Projekte und schnelles seitenweises Laden\n• Verbesserte Reaktionsgeschwindigkeit und Fehlerbehebungen",
+    "fr": "• Nouvel accueil avec choix du premier modèle gratuit et visite guidée sur la toile\n• Grille en 2 colonnes dans Mes Projets et chargement paginé plus rapide\n• Amélioration de la réactivité et corrections de bugs"
   }
 }
