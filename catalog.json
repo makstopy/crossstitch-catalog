@@ -1,5 +1,21 @@
 [
   {
+    "id": "shop_christmas_ornaments",
+    "title": "Christmas ornaments",
+    "designer": "Cross Stitch Companion",
+    "category": "christmas",
+    "image": "/images/shop_christmas_ornaments.png",
+    "description": "",
+    "tags": [],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_christmas_ornaments.json",
+    "grid_width": 26,
+    "grid_height": 37,
+    "colors_count": 5,
+    "total_stitches": 373,
+    "created_at": "2026-11-25T22:56:39.243Z"
+  },
+  {
     "id": "shop_bird",
     "title": "Bird",
     "designer": "Cross Stitch Companion",
