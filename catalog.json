@@ -1,5 +1,21 @@
 [
   {
+    "id": "shop_christmas_tree",
+    "title": "Christmas Tree",
+    "designer": "Cross Stitch Companion",
+    "category": "christmas",
+    "image": "/images/shop_christmas_tree.png",
+    "description": "",
+    "tags": [],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_christmas_tree.json",
+    "grid_width": 29,
+    "grid_height": 43,
+    "colors_count": 10,
+    "total_stitches": 626,
+    "created_at": "2026-11-25T22:50:15.222Z"
+  },
+  {
     "id": "shop_duck",
     "title": "Duck",
     "designer": "Cross Stitch Companion",
