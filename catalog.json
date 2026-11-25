@@ -1,5 +1,21 @@
 [
   {
+    "id": "shop_snowflake",
+    "title": "Snowflake",
+    "designer": "Cross Stitch Companion",
+    "category": "christmas",
+    "image": "/images/shop_snowflake.png",
+    "description": "",
+    "tags": [],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_snowflake.json",
+    "grid_width": 23,
+    "grid_height": 23,
+    "colors_count": 1,
+    "total_stitches": 177,
+    "created_at": "2026-11-25T22:51:56.933Z"
+  },
+  {
     "id": "shop_christmas_tree",
     "title": "Christmas Tree",
     "designer": "Cross Stitch Companion",
