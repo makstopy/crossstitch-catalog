@@ -1,5 +1,21 @@
 [
   {
+    "id": "shop_christmas_stocking",
+    "title": "Christmas stocking",
+    "designer": "Cross Stitch Companion",
+    "category": "christmas",
+    "image": "/images/shop_christmas_stocking.png",
+    "description": "",
+    "tags": [],
+    "remove_background": true,
+    "scheme_url": "/schemes/shop_christmas_stocking.json",
+    "grid_width": 23,
+    "grid_height": 28,
+    "colors_count": 4,
+    "total_stitches": 356,
+    "created_at": "2026-11-25T22:46:26.251Z"
+  },
+  {
     "id": "shop_owl",
     "title": "Owl",
     "designer": "Cross Stitch Companion",

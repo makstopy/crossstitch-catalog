@@ -1,5 +1,17 @@
 [
   {
+    "key": "christmas",
+    "name": "New Year & Christmas",
+    "labels": {
+      "ru": "Новый год и Рождество",
+      "en": "New Year & Christmas",
+      "es": "Año Nuevo y Navidad",
+      "de": "Neujahr & Weihnachten",
+      "fr": "Nouvel An & Noël",
+      "pt": "Ano Novo e Natal"
+    }
+  },
+  {
     "key": "halloween",
     "name": "Halloween",
     "labels": {
